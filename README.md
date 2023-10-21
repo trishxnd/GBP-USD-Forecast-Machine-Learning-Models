@@ -40,8 +40,13 @@ The three models that were tested were Artificial Neural Networks, Random Forest
 
 ## Model Evaluation
 
+Random Forest:
 ![Random Forest Results](Model_Evaluations/RF_results.png)
+
+SVM:
 ![SVM Results](Model_Evaluations/SVM_results.png)
+
+ANN:
 ![ANN Results](Model_Evaluations/ANN_results.png)
 
 In terms of overall classification accuracy, it is clear to see that the random forest model performed best. However, SVM performed the best at accurately predicting downward trends. For a full breakdown of each of the models' strengths and weaknesses, as well as a more in depth look of the evaluation metrics used, see sections 3.4 and 4.
