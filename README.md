@@ -9,7 +9,8 @@ My full report can be found [here](Project_Report.pdf).
 ## Prerequisites
 
 **Python 3**
-**Packages:** backtesting.py, pandas, pandas_ta, sklearn, tensorflow, matplotlib, kerastuner
+
+**Libraries:** backtesting.py, pandas, pandas_ta, sklearn, tensorflow, matplotlib, kerastuner
 
 ## About the Dataset
 
